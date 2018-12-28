@@ -2,3 +2,9 @@
 build
 tags
 .editorconfig
+
+# products
+CarND-Term2-ide-profile-VisualStudio/products/
+# editor config
+.vscode/
+.vs/
